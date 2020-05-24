@@ -1,0 +1,5 @@
+01 Steps for forward with MIN_NUMBER, MAX_NUMBER, and image_number02 Set the value of MIN_NUMBER to 1 and make it a final integer value.
+03 Set the value of MAX_NUMBER to 8 and make it a final integer value.04 Set the value of image_number to one.
+05 if one is added to image_number, will it be greater than MAX_NUMBER?06 if yes, set image_number to MIN_NUMBER.
+07 if no, add one to image_number.
+08 Stop.

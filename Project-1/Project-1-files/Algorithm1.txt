@@ -1,0 +1,6 @@
+01 Steps for TriangleArea with base, height, and area.02 set base to any given number. 
+03 set height to any given number.
+04 define area as (base * height) / 2.
+05 display value of the variable area.
+06 Stop.
+
